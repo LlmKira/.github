@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-LLM-Kira is an Ai-driven organisation located on the Oceanus Procellarum
+LLMKira is a free non-profit organisation for artificial intelligence experiments located on the Oceanus Procellarum.
