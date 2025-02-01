@@ -12,4 +12,4 @@ Dedicated to replicating and building the infrastructure of projects in the fiel
 
 1. Our mission is to provide dependency supply chain and technology duplication implementation, and research the possibilities of cross-domain/technology collaboration.
 
-2. Turn a closed-source system into open-source!
+2. Testing and developing AI-generated content.
